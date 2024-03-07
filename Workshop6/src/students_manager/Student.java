@@ -1,9 +1,9 @@
 package students_manager;
 
 public class Student {
-    private String code;
-    private String name;
-    private int mark;
+    public String code;
+    public String name;
+    public int mark;
     
     public Student(){
     }
